@@ -749,10 +749,6 @@ etc/firmware/cpp_firmware_v1_8_0.fw
 # Charger
 bin/hvdcp_opti
 
-# Consumer Ir
-lib/hw/consumerir.msm8953.so
-lib64/hw/consumerir.msm8953.so
-
 # DPM
 bin/dpmd
 etc/dpm/dpm.conf
